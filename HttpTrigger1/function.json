@@ -20,7 +20,7 @@
       "type": "sendGrid",
       "name": "message",
       "apiKey": "SendGrid",
-      "to": "varundhiman08@gmail.com",
+      "to": "<email_id>",
       "direction": "out"
     }    
   ]
